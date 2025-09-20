@@ -2,6 +2,15 @@
 
 An AI-powered research tool that combines uploaded documents with live data to generate comprehensive, evidence-based research reports. Built for students, researchers, and professionals who need reliable, up-to-date information with proper citations.
 
+## 🎬 Demo Video
+
+Check out the Smart Research Assistant in action:
+
+[![Watch Demo](https://www.vdocipher.com/blog/wp-content/uploads/2023/12/DALL%C2%B7E-2023-12-10-20.21.58-A-creative-and-visually-appealing-featured-image-for-a-blog-about-video-thumbnails-for-various-social-platforms-like-YouTube-Instagram-and-TikTok-s-1536x878.png)](/Video%20Demo.mp4)
+
+*Click the image to view the video.*
+
+
 ## 🎯 Problem Statement
 
 Current research tools are fragmented:
